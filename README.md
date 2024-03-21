@@ -1,6 +1,6 @@
 # Welcome to LandLine
 
-![LandLine Logo](./resources/12.png)
+[![LandLine Logo](./resources/12.png)](https://michaelniekamp.github.io/LandLine/)
 
 LandLine is on a mission to reshape the real estate sector through innovation and efficiency. Our platform empowers renters, landlords, and contractors with robust scheduling tools, comprehensive group chat features, 
 and seamless contractor selection options. By enhancing communication, and centralizing the entire process, LandLine aims to optimize the problem resolution procedure, and set a new standard for landowners, contractors, 
