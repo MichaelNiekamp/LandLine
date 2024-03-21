@@ -6,7 +6,7 @@ LandLine is on a mission to reshape the real estate sector through innovation an
 and seamless contractor selection options. By enhancing communication, and centralizing the entire process, LandLine aims to optimize the problem resolution procedure, and set a new standard for landowners, contractors, 
 and tenants.
 
-[![LandLine Video]](https://youtu.be/TONEA-gyeqw)
+[![LandLine Video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6kvyAdVrSJ-K5PuqRW3wG78YPeNRAwmf19Q&usqp=CAU)](https://youtu.be/TONEA-gyeqw)
 
 For renters, landlords, and contractors in the real estate industry, communication inefficiencies lead to wasted time, misunderstandings, and missed opportunities. Coordination hurdles, such as scheduling conflicts and 
 delayed responses, hinder productivity and strain relationships. This problem is significant as it impacts the efficiency and profitability of real estate transactions, affecting stakeholders across the board. Without 
