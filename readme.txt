@@ -1,161 +1,22 @@
-==================================================================================================
+# Welcome to LandLine
 
-DESCRIPTION:
+![LandLine Logo](./resources/12.png)
 
-DAZZLE is a modern and beautiful well crafted responsive template created for showcasing 
-your software and mobile application. Built with clean and organized css3 and html5 code, 
-this template is very easy to customize. It's mobile ready and retina/hi-dpi ready which 
-means it will look great on any devices from mobile to desktop, sharp and crisp on any screen 
-resolutions and displays. This stylish template is perfect for showcasing your software and mobile 
-application.
+LandLine is on a mission to reshape the real estate sector through innovation and efficiency. Our platform empowers renters, landlords, and contractors with robust scheduling tools, comprehensive group chat features, 
+and seamless contractor selection options. By enhancing communication, and centralizing the entire process, LandLine aims to optimize the problem resolution procedure, and set a new standard for landowners, contractors, 
+and tenants.
 
-==================================================================================================
+[![LandLine Video](./resources/12.png)](https://youtu.be/TONEA-gyeqw)
 
+For renters, landlords, and contractors in the real estate industry, communication inefficiencies lead to wasted time, misunderstandings, and missed opportunities. Coordination hurdles, such as scheduling conflicts and 
+delayed responses, hinder productivity and strain relationships. This problem is significant as it impacts the efficiency and profitability of real estate transactions, affecting stakeholders across the board. Without 
+a streamlined solution, valuable time and resources are continuously squandered, hindering growth and progress in the sector.
 
-USING THE MAILCHIMP FORM:
+LandLine offers a comprehensive platform that streamlines communication and scheduling for renters, landlords, and contractors in the real estate sector. Features such as time scheduling, group chat with photo uploads, 
+and quick contractor selection, enables LandLine to eliminate coordination hurdles while enhancing efficiency and collaboration. By centralizing communication and simplifying the overall processes, our solution saves 
+time, reduces misunderstandings, and increases productivity to ultimately deliver value by transforming how real estate transactions are managed.
 
-To use the mailchimp form you need a mailchimp url. To get the mailchimp url, login to 
-your mailchimp account, click the list menu, click the stats download menu and select signup forms. 
-Then choose embedded forms and select naked form. In the generated form code get the value of 
-the form ACTION attribute and use it as your mailchimp url. Open the main.js file located
-in the template's "js" folder and look for this line of code: 
-
-var cfg = {
-    scrollDuration : 800, // smoothscroll duration
-    mailChimpURL   : 'https://facebook.us8.list-manage.com/subscribe/post?u=cdb7b577e41181934ed6a6a44&amp;id=e6957d85dc'   // mailchimp url
-},
-
-Replace the value of mailChimpURL with your mailchimp url and make sure to uncomment the function
-call ssAjaxChimp() inside the ssInit() function:
-
-(function ssInit() {
-
-    ssPreloader();
-    ssMobileMenu();
-    ssFitVids();
-    ssOwlCarousel();
-    ssWaypoints();
-    ssSmoothScroll();
-    ssPlaceholder();
-    ssAlertBoxes();
-    ssAOS();
-    ssBackToTop();
-
-    // to use the mailchimp form, uncomment the 
-    // function call ssAjaxChimp() below:
-    // ssAjaxChimp(); 
-
-})();
-
-
------------------------------------------------------------------------------------------------------
-
-
-LICENSE:
-
-
-DAZZLE is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
-
-   to Share - to copy, distribute, display, and perform the work
-   to Remix - to make derivative works
-   to make commercial use of the work 
-
-Under the following conditions:
-
-   Attribution - You must attribute the work in the manner specified by the 
-   author or licensor (but not in any way that suggests that they endorse you 
-   or your use of the work). 
-
-   For any reuse or distribution, you must make clear to others the license 
-   terms of this work
-
-   Any of these conditions can be waived if you get permission from the 
-   copyright holder
-
-Attribution: 
-	
-   You must include a credit link to our website(http://www.Styleshout.com) somewhere on
-   your site. We prefer the footer credit that comes with the template but you are still 
-   free to move it somewhere else.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE LINK:
-
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since DAZZLE is distributed for free, support is not offered. DAZZLE is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - http://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Montserrat Font (https://www.google.com/fonts/specimen/Montserrat)
- - Muli Font (https://fonts.google.com/specimen/Muli) 
-
-Icons:
- - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
- - Micons Free Icons (http://geticonjar.com/freebies/231-micons/)
- - Webfont generated by ICOMOON (https://icomoon.io/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- - Relate UI Kit (https://www.invisionapp.com/relate)
- 
-Javascript Files:
-
- - JQuery (http://jquery.com/)
- - Modernizr (http://modernizr.com/)
- - Waypoints (http://imakewebthings.com/jquery-waypoints/)
- - jQuery Placeholder (https://github.com/mathiasbynens/jquery-placeholder)
- - FitVids (http://fitvidsjs.com/)
- - pace js (http://github.hubspot.com/pace/)
- - Masonry (http://masonry.desandro.com/)
- - ajaxChimp (https://github.com/scdoshi/jquery-ajaxchimp)
- - animate on scroll (https://michalsnik.github.io/aos/)
- - parallax.js (http://pixelcog.github.io/parallax.js/)
- - Owl Carousel (https://owlcarousel2.github.io/OwlCarousel2/)
-
-
-
-
-
-
-
+Our team, consisting of four computer scientists, brings diverse skills and experiences gained from internships at Autonomous Aerial Systems Office, MT High Tech Business Alliance, ATG, and Superior Traffic Services. 
+Our experience in algorithm design, software engineering, mobile app development/design, game development, research/writing, and business development, positions us to successfully lead the venture. Our combined skills 
+ensure that we will be able to effectively handle the development and business processes of our startup. 
 
