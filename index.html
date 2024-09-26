@@ -452,11 +452,13 @@
 
                     <div class="subscribe-form">
                 
-                        <form id="mc-form" class="group" novalidate="true">
+                        <form id="mc-form" class="group" action="https://api.web3forms.com/submit" method="POST">
+
+                            <input type="hidden" name="access_key" value="354b6911-b100-4719-aca5-ff636964812d">
 
                             <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required="true"> 
                 
-                            <input type="submit" name="subscribe" value="Send" onclick="">
+                            <input type="submit">
                 
                             <label for="mc-email" class="subscribe-message"></label>
                 
